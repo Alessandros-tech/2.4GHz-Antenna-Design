@@ -18,18 +18,14 @@ The project includes:
 This repository showcases the complete engineering workflow from concept to validation.
 
 ---
+## Repository Structure
 
-## 📁 Repository Structure
+### CST Project
+- [Dipolo2,4.cst](cst/Dipolo2,4.cst) → CST Studio Suite project file
 
-/cst  
-    Dipolo2,4.cst        → CST Studio Suite project file
-
-/docs  
-    Relazione_Dipolo_2.4GHz.pdf        → Theory + CST simulation report  
-    Report_Attività_Sperimentale_Dipolo_2.4GHz.pdf   → Physical prototype test report
-
-README.md                → Project overview
-
+### Documentation
+- [Relazione_Dipolo_2.4GHz.pdf](docs/Relazione_Dipolo_2.4GHz.pdf) → Theory + CST simulation report
+- [Report_Attività_Sperimentale_Dipolo_2.4GHz.pdf](docs/Report_Attività_Sperimentale_Dipolo_2.4GHz.pdf) → Physical prototype test report
 
 ---
 
